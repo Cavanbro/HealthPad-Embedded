@@ -76,6 +76,6 @@
 
 ## Credits
 
-* | Cavan Bannon | HealthPoint |
+| Cavan Bannon | HealthPoint |
 
 ---
