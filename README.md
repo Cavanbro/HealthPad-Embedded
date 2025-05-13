@@ -1,10 +1,10 @@
-# 📦 Project Name
+# Project Name
 
 *HealthPad: LED-guided pill reminder and tracking system for daily medication adherence.*
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 * [Overview](#overview)
 * [Features](#features)
@@ -20,28 +20,22 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
-
-> Example:
 > This repository contains firmware and related code for the HealthPad, a consumer device that reminds users when to take their medication via LED indicators and tracks pill usage with magnetic sensors.
 
 ---
 
-## ✨ Features
+## Features
 
 * LED ring for real-time pill reminders
 * Magnetic sensor for pill bottle detection
 * Mobile integration via Bluetooth/WiFi
 * Local data logging and sync
-* OTA (Over-the-Air) firmware updates (if applicable)
-
+* OTA (Over-the-Air) firmware updates (in future)
 ---
 
-## 🔧 Hardware Requirements
-
-
-> Example:
+## Hardware Requirements
 
 * ESP32 Development Board
 * Neopixel LED Ring (24 LEDs)
@@ -52,10 +46,7 @@
 
 ---
 
-## 💻 Software Setup
-
-
-> Example:
+## Software Setup
 
 * PlatformIO / Arduino IDE
 * ESP32 board support package
@@ -64,10 +55,7 @@
 
 ---
 
-## ▶️ Usage
-
-
-> Example:
+## Usage
 
 1. Plug in the device.
 2. Upload script while holding down "download" button on ESP32
@@ -77,17 +65,7 @@
 
 ---
 
-## 🔨 Development
-
-
-* File structure
-* How configurations are handled (e.g., `config.h`)
-* Testing framework (if any)
-* Serial debug commands
-
----
-
-## 🛠 Troubleshooting
+## Troubleshooting
 
 | Issue                       | Solution                                              |
 | --------------------------- | ----------------------------------------------------- |
@@ -97,7 +75,7 @@
 
 ---
 
-## 🙌 Credits
+## Credits
 
 * \[Cavan Bannon / HealthPoint]
 * Libraries used: Adafruit NeoPixel, Espressif WiFi, etc.
