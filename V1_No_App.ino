@@ -57,6 +57,8 @@ void loop() {
 
     // Idle state (before pill time or already taken)
     else if (hallState == LOW) {
+        // Fixing light is too bright issue by lowering brightness 
+        ring.setBrightness(10);
         setRingColor(0, 0, 255); // Blue - Idle
     }
 
