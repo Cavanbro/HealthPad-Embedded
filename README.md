@@ -1,6 +1,6 @@
 # 📦 Project Name
 
-E.g., *HealthPad: LED-guided pill reminder and tracking system for daily medication adherence.*
+*HealthPad: LED-guided pill reminder and tracking system for daily medication adherence.*
 
 ---
 
