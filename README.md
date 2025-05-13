@@ -1,7 +1,13 @@
+Here's a **README template** tailored for a GitHub repository containing code for consumer hardware. This is structured to clearly convey what the hardware does, how to set up and run the code, and how others can contribute or troubleshoot issues.
 
-# HealthPad
+---
 
-Smart Medication Pad: LED-guided pill reminder and tracking system for daily medication adherence.
+# 📦 Project Name
+
+**Short tagline or description (1–2 lines)**
+E.g., *HealthPad: LED-guided pill reminder and tracking system for daily medication adherence.*
+
+---
 
 ## 📋 Table of Contents
 
@@ -15,14 +21,16 @@ Smart Medication Pad: LED-guided pill reminder and tracking system for daily med
 * [Contributing](#contributing)
 * [License](#license)
 * [Troubleshooting](#troubleshooting)
+* [Credits](#credits)
 
+---
 
 ## 🚀 Overview
 
 Provide a high-level overview of your consumer hardware and what this repository includes.
 
 > Example:
-> This repository contains firmware and related code for the Smart Medication Pad, a consumer device that reminds users when to take their medication via LED indicators and tracks pill usage with magnetic sensors.
+> This repository contains firmware and related code for the HealthPad, a consumer device that reminds users when to take their medication via LED indicators and tracks pill usage with magnetic sensors.
 
 ---
 
@@ -44,10 +52,10 @@ List the specific hardware components required to run your code.
 
 * ESP32 Development Board
 * Neopixel LED Ring (24 LEDs)
-* Magnetic Reed Switch or Hall Effect Sensor
+* A3144 Hall Effect Switch
 * Micro-USB Cable
 * 5V Power Supply
-* 3D Printed Enclosure (optional)
+* 3D Printed Enclosure 
 
 ---
 
@@ -64,22 +72,6 @@ Mention software tools, SDKs, and libraries needed.
 
 ---
 
-## 📥 Installation
-
-Step-by-step instructions to flash or install code on the hardware.
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/project-name.git
-
-# Open in PlatformIO or Arduino IDE
-# Install dependencies as listed above
-
-# Compile and upload
-```
-
----
-
 ## ▶️ Usage
 
 Explain how to operate the device once flashed and powered on.
@@ -87,9 +79,10 @@ Explain how to operate the device once flashed and powered on.
 > Example:
 
 1. Plug in the device.
-2. Place pill bottles with attached magnets on the pad.
-3. When it's time to take your pill, the LED will turn red.
-4. Once the bottle is removed and returned, the status will update to yellow (pill taken).
+2. Upload script while holding down "download" button on ESP32
+4. Place pill bottles with attached magnets on the pad.
+5. When it's time to take your pill, the LED will turn red.
+6. Once the bottle is removed and returned, the status will update to blue (pill taken).
 
 ---
 
@@ -101,19 +94,6 @@ Provide any notes for developers who want to modify the code:
 * How configurations are handled (e.g., `config.h`)
 * Testing framework (if any)
 * Serial debug commands
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
-See [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
-
----
-
-## 🪪 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -134,5 +114,3 @@ This project is licensed under the [MIT License](LICENSE).
 * Inspired by: \[similar open source projects or hardware]
 
 ---
-
-Would you like me to customize this for your specific hardware project?
