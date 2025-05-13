@@ -41,7 +41,6 @@
 * Neopixel LED Ring (24 LEDs)
 * A3144 Hall Effect Switch
 * Micro-USB Cable
-* 5V Power Supply
 * 3D Printed Enclosure 
 
 ---
@@ -51,7 +50,7 @@
 * PlatformIO / Arduino IDE
 * ESP32 board support package
 * Adafruit NeoPixel Library
-* \[Insert any Bluetooth/WiFi/MQTT library]
+* Wifi.h library 
 
 ---
 
@@ -77,7 +76,7 @@
 
 ## Credits
 
-* \[Cavan Bannon / HealthPoint]
-* Libraries used: Adafruit NeoPixel, Espressif WiFi, etc.
+* [Cavan Bannon / HealthPoint]
+* Libraries used: Adafruit NeoPixel, Espressif WiFi
 
 ---
