@@ -1,10 +1,5 @@
-Here's a **README template** tailored for a GitHub repository containing code for consumer hardware. This is structured to clearly convey what the hardware does, how to set up and run the code, and how others can contribute or troubleshoot issues.
-
----
-
 # 📦 Project Name
 
-**Short tagline or description (1–2 lines)**
 E.g., *HealthPad: LED-guided pill reminder and tracking system for daily medication adherence.*
 
 ---
@@ -27,7 +22,6 @@ E.g., *HealthPad: LED-guided pill reminder and tracking system for daily medicat
 
 ## 🚀 Overview
 
-Provide a high-level overview of your consumer hardware and what this repository includes.
 
 > Example:
 > This repository contains firmware and related code for the HealthPad, a consumer device that reminds users when to take their medication via LED indicators and tracks pill usage with magnetic sensors.
@@ -46,7 +40,6 @@ Provide a high-level overview of your consumer hardware and what this repository
 
 ## 🔧 Hardware Requirements
 
-List the specific hardware components required to run your code.
 
 > Example:
 
@@ -61,7 +54,6 @@ List the specific hardware components required to run your code.
 
 ## 💻 Software Setup
 
-Mention software tools, SDKs, and libraries needed.
 
 > Example:
 
@@ -74,7 +66,6 @@ Mention software tools, SDKs, and libraries needed.
 
 ## ▶️ Usage
 
-Explain how to operate the device once flashed and powered on.
 
 > Example:
 
@@ -88,7 +79,6 @@ Explain how to operate the device once flashed and powered on.
 
 ## 🔨 Development
 
-Provide any notes for developers who want to modify the code:
 
 * File structure
 * How configurations are handled (e.g., `config.h`)
@@ -109,8 +99,7 @@ Provide any notes for developers who want to modify the code:
 
 ## 🙌 Credits
 
-* \[Your Name / Organization]
+* \[Cavan Bannon / HealthPoint]
 * Libraries used: Adafruit NeoPixel, Espressif WiFi, etc.
-* Inspired by: \[similar open source projects or hardware]
 
 ---
