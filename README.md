@@ -76,7 +76,6 @@
 
 ## Credits
 
-* [Cavan Bannon / HealthPoint]
-* Libraries used: Adafruit NeoPixel, Espressif WiFi
+* | Cavan Bannon | HealthPoint |
 
 ---
