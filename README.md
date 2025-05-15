@@ -38,8 +38,8 @@
 ## Hardware Requirements
 
 * ESP32 Development Board
-* Neopixel LED Ring (24 LEDs)
-* A3144 Hall Effect Switch
+* Neopixel LED Ring (24 x 5050 RGB LEDs)
+* Allegro Microsystems A3144 Hall Effect Switch
 * Micro-USB Cable
 * 3D Printed Enclosure 
 
